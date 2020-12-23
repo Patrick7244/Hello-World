@@ -1,2 +1,4 @@
 # Hello-World
 Just practice
+
+HEY, WHAT'S UP? THIS IS MY FIRST TIME ON GITHUB, AND IT'S COMFTY AND EASY.
